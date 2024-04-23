@@ -23,7 +23,7 @@ def Chat():
 
 def Nav():
     Home()
-    Baseball()
     Basketball()
     Cricket()
+    Baseball()
     Chat()
