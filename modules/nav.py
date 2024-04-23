@@ -13,6 +13,10 @@ def Basketball():
     st.sidebar.page_link('pages/basketball.py', label='Basketball', icon='🏀')
 
 
+def Cricket():
+    st.sidebar.page_link('pages/cricket.py', label='Cricket', icon='🏏')
+
+
 def Chat():
     st.sidebar.page_link('pages/chat.py', label='Chat', icon='💬')
 
@@ -21,4 +25,5 @@ def Nav():
     Home()
     Baseball()
     Basketball()
+    Cricket()
     Chat()
