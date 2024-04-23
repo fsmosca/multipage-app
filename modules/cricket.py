@@ -13,7 +13,7 @@ def TeamRanking():
         st.markdown(
             '''
             ### World Cup
-            **T20 International Team Ranking**  
+            **T20 International Men's Team Ranking**  
             :red[2024-04-17]
             '''
         )
