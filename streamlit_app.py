@@ -5,7 +5,8 @@ from modules.home import BALL_SPORTS
 
 st.set_page_config(
     layout='centered',
-    page_title='Sports'
+    page_title='Sports',
+    page_icon='🏆'
 )
 
 
