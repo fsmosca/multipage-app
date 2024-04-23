@@ -12,7 +12,7 @@ def TeamRanking():
     with st.container(border=True):
         st.markdown(
             '''
-            ### World Cup
+            ### ICC World Cup
             **T20 International Men's Team Ranking**  
             :red[2024-04-17]
             '''
@@ -25,6 +25,6 @@ def TeamRanking():
         )
         st.markdown(
             '''
-            source: [WC cricket](https://www.icc-cricket.com/rankings/team-rankings/mens/t20i)
+            source: [ICC cricket](https://www.icc-cricket.com/rankings/team-rankings/mens/t20i)
             '''
         )
