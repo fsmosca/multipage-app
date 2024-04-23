@@ -12,8 +12,8 @@ def TeamRanking():
     with st.container(border=True):
         st.markdown(
             '''
-            ### FIBA Basketball
-            **5x5 Men's Team Ranking**  
+            ### FIBA World Ranking
+            **5x5 Basketball Men's Team**  
             :red[2024-02-27]
             '''
         )
