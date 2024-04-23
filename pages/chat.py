@@ -4,7 +4,8 @@ from modules.nav import Nav
 
 st.set_page_config(
     layout='centered',
-    page_title='Sports'
+    page_title='Chat on sports',
+    page_icon='🏆'
 )
 
 
