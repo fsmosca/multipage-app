@@ -1,5 +1,6 @@
 import streamlit as st
 from modules.nav import Nav
+from modules.basketball import TeamRanking
 
 
 st.set_page_config(
@@ -12,8 +13,9 @@ st.set_page_config(
 def main():
     Nav()
     st.header('🏀 Basketball')
+    st.divider()
 
-    # Other stuff
+    TeamRanking()
 
 
 if __name__ == '__main__':
